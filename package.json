@@ -1,0 +1,16 @@
+{
+  "name": "qwala-discord",
+  "version": "1.0.0",
+  "description": "a Discord bot for using Qwa.la",
+  "main": "index.js",
+  "scripts": {
+      "start": "node index.js"
+  },
+  "author": "Marco Burstein <marco@marco.how>",
+  "license": "GPL-3.0-only",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "qwala": "^1.0.2",
+    "url-regex": "^4.1.1"
+  }
+}

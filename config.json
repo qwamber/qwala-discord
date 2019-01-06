@@ -1,0 +1,5 @@
+{
+    "command": "qwala!",
+    "token": "<put your own Discord Bot Token here>",
+    "urlPrefix": "http://qwa.la/"
+}
